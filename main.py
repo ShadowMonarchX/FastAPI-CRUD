@@ -1,7 +1,7 @@
 from os import error
 from turtle import up
-from fastapi import FastAPI
-from pydantic import BaseModel
+from fastapi import FastAPI # type: ignore
+from pydantic import BaseModel # type: ignore
 from typing import List 
 
 
