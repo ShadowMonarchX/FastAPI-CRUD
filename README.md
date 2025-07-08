@@ -1,1 +1,1 @@
-# -FastAPI-CRUD
+# FastAPI-CRUD
