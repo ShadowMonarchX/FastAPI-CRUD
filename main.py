@@ -14,7 +14,7 @@ class Tea(BaseModel) :
 
 teas : List[Tea] = []
 
-
+print("Jenish")
 @app.get("/")
 def read_root():
     return {"Hello JR Shekhada"}
